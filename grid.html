@@ -19,8 +19,10 @@
         .container {
             display: grid;
             /* define how many columns and rows*/
-            grid-template-columns: 1fr 1fr 2fr ; 
+            /* grid-template-columns: 1fr 1fr 2fr ;  */
             grid-template-rows: 100px 100px 200px ;
+
+            grid-template-columns: repeat(3, 1fr);
         }
 
         .items {
