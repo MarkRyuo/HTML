@@ -1,4 +1,9 @@
 
+* {
+    border: solid red;
+}
+
+
 
 .row {
     display: flex;
@@ -6,5 +11,5 @@
 
 
 .col {
-    border: solid red;
+    ;
 }
