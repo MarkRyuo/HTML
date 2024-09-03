@@ -1,8 +1,9 @@
 
 
-.container {
+.row {
     display: flex;
 }
+
 
 .col {
     border: solid red;
