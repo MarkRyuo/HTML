@@ -1,6 +1,16 @@
 
+:root {
+    --bgcolor_body: ##fffaeb ;
+}
 
+body {
+    background-color: var(--bgcolor_body);
+}
 
 nav ul {
     list-style: none;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
 }
+
