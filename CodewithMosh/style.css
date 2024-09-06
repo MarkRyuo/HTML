@@ -21,6 +21,11 @@ nav ul img {
 
 .link-nav {
     grid-column: 1 / 3 ;
-    grid-row: ;
+    grid-row: 1 / 3;
 }
 
+article .wrapping-list {
+    display: grid ;
+    grid-template-columns: repeat(6, 1fr) ;
+    grid-template-rows: ;
+}
