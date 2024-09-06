@@ -14,8 +14,12 @@ nav ul {
     grid-template-rows: repeat(2, 1fr);
 }
 
+nav ul li img {
+    
+}
+
 .link-nav {
 
-    grid-column: ;
+    grid-column: 1 / 5 ;
     grid-row: ;
 }
