@@ -22,6 +22,7 @@ nav ul img {
 .link-nav {
     grid-column: 1 / 3 ;
     grid-row: 1 / 3;
+    text-decoration: none;
 }
 
 /* Anime templates */
@@ -44,5 +45,11 @@ article .wrapping-list .anime2 {
 }
 
 article .wrapping-list .anime3 {
-    
+    grid-column: 8 / 10;
+    grid-row: 1 / 5;
+}
+
+.anime1 img {
+    width: 300px;
+    height: auto;
 }
