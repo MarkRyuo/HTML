@@ -21,9 +21,11 @@
     border: solid 1px;
 
     flex-direction: column;
+/* 
+    justify-content: center;
+    align-content:  center; */
 
-    /* justify-content: center; */
-    align-content:  ;
+    align-items:center;
 }
 
 
