@@ -8,13 +8,15 @@
 
 .items {
     width: 100px;
-    height: 300px;
+    height: 100px;
+    border-radius: 10px;
 }
 
 /* * justify-content */
 
 .parentContent {
     display: flex;
+    border: solid 1px;
 }
 
 .parentContent .items {
@@ -23,4 +25,8 @@
 
 .items1 {
     background-color: var(--boxcolor1);
+}
+
+.items2 {
+    background-color: var();
 }
