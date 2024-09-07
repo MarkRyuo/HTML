@@ -17,10 +17,10 @@
     display: flex;
 }
 
-.parentsContent .items {
+.parentContent .items {
     justify-content: center;
 }
 
-.items .items1 {
+.items1 {
     background-color: var(--boxcolor1);
 }
