@@ -7,4 +7,6 @@
 
 /* * justify-content */
 
-.parentConten
+.parentContent {
+    display: flex;
+}
