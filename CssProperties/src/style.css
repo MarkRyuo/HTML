@@ -19,11 +19,12 @@
     height: 30vh;
     display: flex;
     border: solid 1px;
+
+    justify-content: center;
 }
 
 .parentContent .items {
-    justify-content: center;
-    justify-items: ;
+
 }
 
 .items1 {
