@@ -15,12 +15,15 @@
 /* * justify-content */
 
 .parentContent {
+    width: 50vw;
+    height: 30vh;
     display: flex;
     border: solid 1px;
 }
 
 .parentContent .items {
     justify-content: center;
+    justify-items: ;
 }
 
 .items1 {
@@ -31,4 +34,6 @@
     background-color: var(--boxcolor2);
 }
 
-.items
+.items3 {
+    background-color: var(--boxcolor3);
+}
