@@ -1,0 +1,43 @@
+
+:root {
+    --boxcolor1: #4BE843 ;
+    --boxcolor2: #43E8AD ;
+    --boxcolor3: #43E875 ;
+}   
+
+
+.items {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+/* * justify-content */
+
+.parentContent {
+    width: 50vw;
+    height: 40vh;
+    display: flex;
+    border: solid 1px;
+
+    flex-direction: column;
+/* 
+    justify-content: center;
+    align-content:  center; */
+
+    align-items:center;
+    align-content: space-around;
+}
+
+
+.items1 {
+    background-color: var(--boxcolor1);
+}
+
+.items2 {
+    background-color: var(--boxcolor2);
+}
+
+.items3 {
+    background-color: var(--boxcolor3);
+}
