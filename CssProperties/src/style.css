@@ -5,6 +5,11 @@
     --boxcolor3: #43E875 ;
 }   
 
+
+.items {
+    
+}
+
 /* * justify-content */
 
 .parentContent {
@@ -15,4 +20,6 @@
     justify-content: center;
 }
 
-.
+.items .items1 {
+    background-color: var(--boxcolor1);
+}
