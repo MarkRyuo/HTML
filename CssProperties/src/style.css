@@ -33,7 +33,7 @@
 
 .items1 {
     background-color: var(--boxcolor1);
-    grid-row: 1/4;
+    grid-row: 1 / 2;
 }
 
 .items2 {
@@ -56,8 +56,8 @@
     margin: 5px;
 
     align-items: center;
-    align-content: cente;
     
-    grid-template-rows: 200px 200px 200px;
-    grid-template-columns: 200px 200px 200px;
+    
+    grid-template-rows: repeat(8, 1fr);
+    grid-template-columns: repeat(4, 1fr);
 }
