@@ -33,12 +33,12 @@
 
 .items1 {
     background-color: var(--boxcolor1);
-    grid-row: 1 / 3;
+    grid-row: 1 / 4;
 }
 
 .items2 {
     background-color: var(--boxcolor2);
-    grid-row: 4 / 6;
+    grid-row: 1 / 4;
 }
 
 .items3 {
