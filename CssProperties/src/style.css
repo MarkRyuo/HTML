@@ -46,7 +46,7 @@
 .items3 {
     background-color: var(--boxcolor3);
     grid-row: 1/ 9;
-    grid-column: 6 / 8 ;
+    grid-column: 6 / 9 ;
 
 }
 
@@ -55,12 +55,11 @@
 .parentItems {
     display: grid ;
     border: 1px solid;
-    width: 50vw;
+    width: 80vw;
     height: 20vw;
     margin: 5px;
 
-    justify-items:start;
-    align-items: center;
+    justify-items: center;
 
     
     
