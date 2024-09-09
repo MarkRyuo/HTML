@@ -46,7 +46,7 @@
 .items3 {
     background-color: var(--boxcolor3);
     grid-row: 1/ 9;
-    grid-column: 6 / 9 ;
+    grid-column: 7 / 9 ;
 
 }
 
@@ -63,6 +63,6 @@
 
     
     
-    grid-template-rows: repeat(8, 1fr);
+    grid-template-rows: repeat(10, 1fr);
     grid-template-columns: repeat(4, 1fr);
 }
