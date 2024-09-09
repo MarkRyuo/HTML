@@ -71,5 +71,7 @@
 /* * justify-self and align-self */
 
 .parentSelf {
+
+    display: grid;
     
 }
