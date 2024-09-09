@@ -12,32 +12,57 @@
     border-radius: 10px;
 }
 
-/* * justify-content */
+/* * justify-content and align-items */
 
 .parentContent {
     width: 50vw;
     height: 40vh;
     display: flex;
     border: solid 1px;
-
-    flex-direction: column;
+    margin: 5px;
+    flex-direction: row;
 /* 
     justify-content: center;
     align-content:  center; */
 
+    justify-content: space-between;
     align-items:center;
-    align-content: space-around;
 }
 
+/* * Color Items */
 
 .items1 {
     background-color: var(--boxcolor1);
+    grid-row: 1 / 9;
+    grid-column: 1 / 3;
 }
 
 .items2 {
     background-color: var(--boxcolor2);
+    grid-row: 1 / 9;
+    grid-column: 3 / 6;
 }
 
 .items3 {
     background-color: var(--boxcolor3);
+    grid-row: 1/ 9;
+    grid-column: 6 / 9 ;
+
+}
+
+/* *justify-items */
+
+.parentItems {
+    display: grid ;
+    border: 1px solid;
+    width: 80vw;
+    height: 20vw;
+    margin: 5px;
+
+    justify-items: center;
+
+    
+    
+    grid-template-rows: repeat(8, 1fr);
+    grid-template-columns: repeat(4, 1fr);
 }
