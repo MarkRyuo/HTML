@@ -50,7 +50,7 @@
 
 }
 
-/* *justify-items */
+/* *justify-items and align-items*/
 
 .parentItems {
     display: grid ;
@@ -60,6 +60,7 @@
     margin: 5px;
 
     justify-items: center;
+    align-items: center;
 
     
     
