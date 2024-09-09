@@ -99,5 +99,5 @@
 .parentSelf .items3 {
 
     justify-self: flex-end;
-    align-self: flex-end;
+    align-self:first baseline;
 }
