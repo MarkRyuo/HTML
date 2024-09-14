@@ -34,3 +34,9 @@ nav ul {
 /* ! Navbar End */
 
 /* *Section */
+
+section {
+    margin: 5px 50px 10px 50px;
+    border: 1px solid;
+}
+
