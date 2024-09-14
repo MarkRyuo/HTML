@@ -73,10 +73,17 @@ section article {
 /* * Main */
 
 main {
-
+    padding: 2px;
     display: flex;
 }
 
 main .hero-section {
     
+    border: 1px solid;
+    width: 500px;
+    
+    
+    align-content: center;
+    
+
 }
