@@ -40,6 +40,11 @@ section {
     border: 1px solid;
 
     height: 70vh;
+
+    display: grid;
+
+    grid-template-columns: ;
+    gri
 }
 
 section aside {
