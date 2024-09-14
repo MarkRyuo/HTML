@@ -88,10 +88,15 @@ main .hero-section {
 }
 
 main .hero-image {
-    border: 1px solid;
+    /* border: 1px solid; */
+
+    margin: 40px;
 }
 
 main .hero-image img {
     width: auto;
-    height: 600px;
+    height: 550px;
+
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px ;
 }
