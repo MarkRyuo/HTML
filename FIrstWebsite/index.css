@@ -9,10 +9,22 @@
 
 /* * Navbar */
 
+nav {
+    border: 1px solid;
+    margin: 5px 50px 10px 50px;
+}
+
 nav ul {
     border: 1px solid;
 
     display: flex;
-    justify-content:;
+    justify-content: space-between ;
+
+}
+
+.nav-container {
+    width: 300px;
+    border: 1px solid;
+    display: flex;
 
 }
