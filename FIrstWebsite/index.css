@@ -43,8 +43,8 @@ section {
 
     display: grid;
 
-    grid-template-columns: ;
-    gri
+    grid-template-columns: repeat(10, 1fr) ;
+    grid-template-rows: repeat(10, 1fr);
 }
 
 section aside {
