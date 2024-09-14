@@ -126,9 +126,12 @@ aside ul {
 
 aside li {
     padding-left: 30px;
-    
+    margin: 10px;
 }
 
 aside h3 {
     text-align: center;
 }
+
+
+/* ! End  */
