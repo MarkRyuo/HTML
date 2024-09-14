@@ -104,4 +104,7 @@ main .hero-image img {
 main .hero-section button {
     width: 100px;
     height: 35px;
+
+    background-color:azure ;
+    border-color: black;
 }
