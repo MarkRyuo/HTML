@@ -70,3 +70,13 @@ section article {
 
 /* ! End of Section */
 
+/* * Main */
+
+main {
+
+    display: flex;
+}
+
+main .hero-section {
+    
+}
