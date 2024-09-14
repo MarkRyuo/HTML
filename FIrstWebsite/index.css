@@ -55,7 +55,7 @@ section aside {
 }
 
 section main {
-    border: 1px solid;
+    /* border: 1px solid; */
 
     grid-column: 3 / 9;
     grid-row: 1 / 11 ;
@@ -108,3 +108,5 @@ main .hero-section button {
     background-color:azure ;
     border-color: black;
 }
+
+/* ! Main Section End */
