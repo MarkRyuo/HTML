@@ -79,10 +79,9 @@ main {
 
 main .hero-section {
     
-    border: 1px solid;
+    /* border: 1px solid; */
     width: 500px;
-    
-    
+    padding: 5px;
     align-content: center;
     
 
