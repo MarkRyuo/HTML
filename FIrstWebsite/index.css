@@ -122,5 +122,13 @@ aside {
 aside ul {
     align-content: center ;
     list-style: none;
+}
 
+aside li {
+    padding-left: 30px;
+    
+}
+
+aside h3 {
+    text-align: center;
 }
