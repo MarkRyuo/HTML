@@ -114,6 +114,9 @@ main .hero-section button {
 
 /* *Aside */
 
+aside {
+    padding: 10px;
+}
 
 aside ul {
     align-content: center ;
