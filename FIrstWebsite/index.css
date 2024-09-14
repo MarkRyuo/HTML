@@ -10,5 +10,9 @@
 /* * Navbar */
 
 nav ul {
+    border: 1px solid;
+
     display: flex;
+    justify-content:;
+
 }
