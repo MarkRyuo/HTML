@@ -100,3 +100,8 @@ main .hero-image img {
     border-radius: 20px;
     box-shadow: 5px 5px 5px ;
 }
+
+main .hero-section button {
+    width: 100px;
+    height: 35px;
+}
