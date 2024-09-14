@@ -38,6 +38,8 @@ nav ul {
 section {
     margin: 5px 50px 10px 50px;
     border: 1px solid;
+
+    height: 70vh;
 }
 
 section aside {
@@ -48,6 +50,6 @@ section main {
     border: 1px solid;
 }
 
-sectioarticle {
+section article {
     border: 1px solid;
 }
