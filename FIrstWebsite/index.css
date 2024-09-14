@@ -5,7 +5,7 @@
 
 * {
     text-decoration: none;
-    list-style: none;
+    
 }
 
 /* * Navbar */
@@ -121,4 +121,7 @@ aside {
 
 aside ul {
     align-content: center ;
+    list-style: none;
 }
+
+aside ul
