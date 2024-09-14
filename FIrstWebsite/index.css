@@ -3,5 +3,12 @@
     --bgColor: #ffff ;
 }
 
+* {
+    text-decoration: none;
+}
 
 /* * Navbar */
+
+nav ul {
+    display: flex;
+}
