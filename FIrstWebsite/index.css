@@ -109,6 +109,12 @@ main .hero-section button {
     border-color: black;
 }
 
+main .hero-section p {
+    
+    max-width: 600px;
+
+}
+
 /* ! Main Section End */
 
 
@@ -138,6 +144,6 @@ aside h3 {
 
 @media (max-width: 1728px) {
     section {
-        
+        max-width: 1728px;
     }
 }
