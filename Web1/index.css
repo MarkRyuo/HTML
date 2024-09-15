@@ -1,9 +1,15 @@
 
 :root {
-    --bgColor1: ##EEF73B ;
+    --bgColor1: #EEF73B ;
+    --bgColor2: #283768 ;
+    --textColor1: #FFC745 ;
 }
 
 body {
     background-color: var(--bgColor1);
 }
 
+header, section, footer {
+    background-color: var(--bgColor2);
+    color: var(--textColor1);
+}
