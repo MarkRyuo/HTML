@@ -38,10 +38,10 @@ nav ul {
 
 section {
     margin: 5px 50px 10px 50px;
-    /* border: 1px solid; */
+    border: 1px solid;
 
     height: 70vh;
-
+    max-width: 1728px;
     display: grid;
 
     grid-template-columns: repeat(10, 1fr) ;
