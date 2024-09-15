@@ -22,7 +22,6 @@ header, footer {
     background-color: var(--bgColor2);
     color: var(--textColor1);
     width: 100%;
-    max-width: 1200px;
     margin: 5px;
     
 }
@@ -63,3 +62,4 @@ header, footer {
 
     }
 
+}
