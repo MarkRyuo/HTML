@@ -53,6 +53,10 @@ header, footer {
         background-color:aquamarine;
     }
 
+    header nav {
+        display: grid;
+    }
+
     section main {
         align-content: center;
         height: 500px;
