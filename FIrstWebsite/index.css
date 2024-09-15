@@ -135,3 +135,9 @@ aside h3 {
 
 /* ! End Aside */
 
+
+@media (max-width: 1728px) {
+    section {
+        
+    }
+}
