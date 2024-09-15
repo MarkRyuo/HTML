@@ -46,3 +46,20 @@ header, footer {
     }
 }
 
+/* * || Large */
+
+@media screen and (min-width: 465px) {
+    body {
+        background-color: aliceblue;
+    }
+
+    header nav {
+        display: none;
+    }
+
+    section main {
+        align-content: center;
+        height: 500px;
+
+    }
+
