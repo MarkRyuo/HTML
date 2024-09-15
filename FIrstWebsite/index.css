@@ -38,7 +38,7 @@ nav ul {
 
 section {
     margin: 5px 50px 10px 50px;
-    /* border: 1px solid; */
+    border: 1px solid;
 
     height: 70vh;
 
@@ -89,7 +89,7 @@ main .hero-section {
 }
 
 main .hero-image {
-    /* border: 1px solid; */
+    border: 1px solid;
 
     margin: 40px;
 }
@@ -135,3 +135,4 @@ aside h3 {
 
 
 /* ! End Aside */
+
