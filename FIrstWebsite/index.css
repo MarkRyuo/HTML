@@ -41,7 +41,6 @@ section {
     border: 1px solid;
 
     height: 70vh;
-    max-width: 1728px;
     display: grid;
 
     grid-template-columns: repeat(10, 1fr) ;
