@@ -1,4 +1,10 @@
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
 :root {
     --bgColor1: #EEF73B ;
     --bgColor2: #283768 ;
@@ -14,6 +20,8 @@ body {
 header, section, footer {
     background-color: var(--bgColor2);
     color: var(--textColor1);
+
+    margin: 5px;
     
 }
 
